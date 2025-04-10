@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pet-vote-app/static/css/main.e6c13ad2.css",
+    "main.js": "/pet-vote-app/static/js/main.2c7b9dda.js",
+    "static/js/453.10d63d19.chunk.js": "/pet-vote-app/static/js/453.10d63d19.chunk.js",
+    "index.html": "/pet-vote-app/index.html",
+    "main.e6c13ad2.css.map": "/pet-vote-app/static/css/main.e6c13ad2.css.map",
+    "main.2c7b9dda.js.map": "/pet-vote-app/static/js/main.2c7b9dda.js.map",
+    "453.10d63d19.chunk.js.map": "/pet-vote-app/static/js/453.10d63d19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2c7b9dda.js"
+  ]
+}
